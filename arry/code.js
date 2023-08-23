@@ -31,9 +31,9 @@ else {
 
 inputelement=fruits.splice(2,2,"melon","watermelon");
 console.log(`The new elements of list are melon & Watermelon ${fruits}`);
+////////////////////////////////////////////////////////////////////////////////////////
 
-
-
+//for Loop function using in object:
 const cars = {
 Company:["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"],
  Model: ["2021","2022","2022","2023","2024",], 
